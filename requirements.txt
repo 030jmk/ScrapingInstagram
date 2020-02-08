@@ -1,0 +1,5 @@
+emoji
+instalooter
+langdetect
+pandas
+matplotlib
