@@ -1,5 +1,4 @@
 emoji
 instalooter
 langid
-pandas
-matplotlib
+
